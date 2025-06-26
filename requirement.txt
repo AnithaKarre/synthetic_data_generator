@@ -1,0 +1,8 @@
+faker
+pandas
+groq 
+langchain 
+langchain_groq
+langchain-community
+dotenv
+streamlit

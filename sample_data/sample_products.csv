@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Price,StockQuantity,Country
+101,Paracetamol,Medicine,1.99,200,USA
+102,Ibuprofen,Medicine,2.49,150,Canada
+103,Hand Sanitizer,Hygiene,3.99,100,India
+104,Face Mask,Hygiene,0.99,500,UK
+105,Thermometer,Device,4.99,75,Germany

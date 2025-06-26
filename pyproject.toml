@@ -1,0 +1,16 @@
+[project]
+name = "sample-data-generator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "faker>=37.4.0",
+    "groq>=0.28.0",
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.26",
+    "langchain-groq>=0.3.4",
+    "pandas>=2.3.0",
+    "streamlit>=1.46.0",
+]
